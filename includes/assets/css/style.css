@@ -1,0 +1,229 @@
+.head{
+	background-color:#21A6CB;
+	color:white;
+	height:290px;
+	width:100%;
+
+	-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
+.events{
+	margin-top:10px;
+	width:300px;
+	padding-top:180px;
+	padding-left:30px;
+	
+}
+#cal {
+	float:left;
+	margin-left:35px;
+}
+
+#description{
+	font-size:14px;
+}
+#developerContainer{
+	width:100%;
+}
+#tagline{
+	margin-top:32px;
+	font-size:18px;
+}
+#logImg{
+	margin-top:-166px;background-color:#F2F3F4;
+	-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+.imgsize{
+	width:600px; 
+	height:238px;
+	 margin-top:-180px; 
+	 float:left;
+}
+#developerDescription{
+	width:678px;
+	float:left;
+}
+#eManager{
+	font-size:30px;
+	font-weight:bolder;
+	padding: 14px;
+    text-align: center;
+	background-color:black;
+	-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+	border-radius:5px;
+	float:left;
+	margin-top:30px;
+	
+}
+homeContain{
+	margin-top:25px;
+}
+.logo{
+	float:right;
+}
+
+/************ Coustom Css Styles *****************/
+.calander_Searchbox {
+	background: #F5F5F5;
+	font-size: 14px;
+    font-weight: bold;
+	height:70px;
+	width:100%;
+}
+.cal_menu {
+	padding-left:15px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.Event_top {
+	float:left;
+	width:20%;
+}
+.event_Frm {
+	font-size:14px;
+	font-weight:bold;
+}
+.Ev_Date {
+	font-size:14px;
+	font-weight:normal;
+	border-bottom:1px dashed #ccc;
+	padding-bottom:5px;
+}
+.Search_top {
+	float:left;
+	margin-left:10px;
+	width:20%;
+	
+}
+.search_Frm {
+	font-size:14px;
+	font-weight:bold;
+}
+.Search_box input{
+	font-size:14px;
+	font-weight:normal;
+	background: #F5F5F5;
+	border:0px solid #F5F5F5;
+	border-bottom:1px dashed #ccc;
+	padding-bottom:5px;
+}
+.find_events {
+	float: left;
+	width:16%;
+}
+.export {
+	float: right;
+	width:18%;
+	/*margin-top:22px;*/
+}
+
+.export_button, .find_button {
+	background: #666666;
+    border: 1px solid #666666;
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+.view_list {
+	background: #E0E0E0;
+    float: right;
+	width:20%;
+	margin-top: -10px;
+	height: 70px;
+}
+.view_as {
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom:5px; 
+}
+.view_box {
+	margin-left:15px;
+}
+.event_all {
+	margin-left: 50px;
+    margin-top: 20px;
+}
+.event_box {
+	margin-left:100px;
+	margin-right:100px;
+	/*border:1px solid #ccc;*/
+}
+.up_coming {
+	text-align:center;
+}
+p.event_date {
+	font-size:11px;
+	font-weight:bold;
+}
+/*.event_image {
+	float:left;
+	width:200px;
+}*/
+.event_desc {
+	/*float:left;*/
+	width:695px;
+}
+div.month{
+    border-top:1px solid #ccc;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+div.month h3{
+    width:100px;
+    margin-top:-13px;
+    margin-left:290px;
+    background:white;
+	font-weight:normal;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.bottom-box {
+	width:93%;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background: #FAFAFA;
+	height:auto;
+	min-height:150px;
+	font-size:12px;
+	float:left;
+}
+.details {
+	float:left;
+	width:250px;
+}
+.venue {
+	float:left;
+	width:250px;
+}
+.map {
+	float:left;
+	width:335px;
+}
+.s_e_date {
+	font-size:15px;
+	font-weight:bold;
+}
+
+.searchForm {
+	margin:0px;
+	background: none!important;
+    max-width: 100% !important;
+    overflow: visible !important;
+	padding:0px !important;
+}
+
+.developer{
+	font-weight: bolder;
+	text-align: center;
+}
+#ui-datepicker-div
+{z-index:1051 !important}

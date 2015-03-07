@@ -1,0 +1,12 @@
+# Windows image file caches
+Thumbs.db
+thumbs.db
+
+# Folder config file
+Desktop.ini
+desktop.ini
+
+.DS_Store
+/.project
+/attachments
+settings.xml
